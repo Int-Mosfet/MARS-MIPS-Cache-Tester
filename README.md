@@ -6,4 +6,8 @@ In this project we needed to write to memory randomly (and do it enough times to
 These are: <br />
 1) Direct mapped <br />
 2) Set-associative mapped <br />
-3) Fully-associative <br />
+3) Fully-associative <br /> <br />
+
+![mars_proj1](https://s1.postimg.org/sxos6erxn/mars_proj1.png) <br />
+
+![mars_proj2](https://s1.postimg.org/aw5n8lxwr/mars_proj2.png)
