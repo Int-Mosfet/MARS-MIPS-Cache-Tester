@@ -8,6 +8,6 @@ These are: <br />
 2) Set-associative mapped <br />
 3) Fully-associative <br /> <br />
 
-![mars_proj1](https://s14.postimg.org/dsz4y3r4d/mars_proj1.png) <br />
+![mars_proj1](https://s18.postimg.org/s6pk62aqh/mars_proj1.png) <br />
 
 ![mars_proj2](https://s14.postimg.org/4zctuqtjh/mars_proj2.png)
