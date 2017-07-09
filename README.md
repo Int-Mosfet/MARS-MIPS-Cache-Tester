@@ -10,4 +10,4 @@ These are: <br />
 
 ![mars_proj1](https://s18.postimg.org/s6pk62aqh/mars_proj1.png) <br />
 
-![mars_proj2](https://s14.postimg.org/4zctuqtjh/mars_proj2.png)
+![mars_proj2](https://s21.postimg.org/pq81693qv/mars_proj2.png)
